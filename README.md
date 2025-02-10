@@ -44,7 +44,7 @@ I'm **Samyak Jain**, an enthusiastic software developer with a passion for codin
 ---
 
 ### 🌐 Connect With Me:
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:samyakjain240400@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](samyakjain240400@gmail.com)
 
 ---
 
